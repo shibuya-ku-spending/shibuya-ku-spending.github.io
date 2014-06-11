@@ -17,9 +17,9 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 
 OpenSpending.Styles.Cofog = {
 
-  /* yokohama cofog */
-  '1': { icon: 'icons/helping-others.svg', color: '#1abc9c', bcolor: '#1abc9c' },
-  '11': { icon: 'icons/helping-others.svg', color: '#1abc9c', bcolor: '#1abc9c' },
+  /* shibuya cofog */
+  '1': { icon: 'icons/admin.svg', color: '#1abc9c', bcolor: '#1abc9c' },
+  '11': { icon: 'icons/admin.svg', color: '#1abc9c', bcolor: '#1abc9c' },
   '2': { icon: 'icons/schools.svg', color: '#1abc9c', bcolor: '#1abc9c' },
   '21': { icon: 'icons/schools.svg', color: '#1abc9c', bcolor: '#1abc9c' },
   '3': { icon: 'icons/schools.svg', color: '#1abc9c', bcolor: '#1abc9c' },
@@ -38,7 +38,7 @@ OpenSpending.Styles.Cofog = {
   '91': { icon: 'icons/schools.svg', color: '#1abc9c', bcolor: '#1abc9c' },
   '10': { icon: 'icons/schools.svg', color: '#1abc9c', bcolor: '#1abc9c' },
   '101': { icon: 'icons/schools.svg', color: '#1abc9c', bcolor: '#1abc9c' },
-  '11': { icon: 'icons/schools.svg', color: '#1abc9c', bcolor: '#1abc9c' },
+  '1': { icon: 'icons/schools.svg', color: '#1abc9c', bcolor: '#1abc9c' },
   '111': { icon: 'icons/schools.svg', color: '#1abc9c', bcolor: '#1abc9c' },
 };
 
